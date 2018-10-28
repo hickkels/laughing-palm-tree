@@ -52,6 +52,7 @@ After the username and password are verfied as a user, the user is taken to a pa
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+   It will be a GUI that has a scrollable table. There will be some buttons for different purposes like adding/deleting/changing a worker,    adding/deleting/changing a manager, or adding/deleting/changing working time.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
