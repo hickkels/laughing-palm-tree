@@ -8,12 +8,12 @@
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: carmstrong195      name 1: Calvin Armstrong
-       * GitHub username 2:       name 2:
+       * GitHub username 2: hickkels           name 2: Kelsey Hickok
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? Sunday, October 28th
+   * How long did it take your team to complete this exercise? 2 hours
 
 ## Table of Contents
 
