@@ -21,7 +21,7 @@ We can send e-mails to each other or we can communicate through the snap chat. I
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+If someone says that they will not be able to meet the deadline on their task, have at least one other person take a part of their task to help complete it before the deadline.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
