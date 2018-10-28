@@ -7,14 +7,14 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: carmstrong195      name 1: Calvin Armstrong
-       * GitHub username 2: 1009205918         name 2: Daoxing Zhang
+       * GitHub username 1: carmstrong195     name 1: Calvin Armstrong
+       * GitHub username 2: 1009205918        name 2: Daoxing Zhang
        * GitHub username 3: jdschneider4      name 3: Jacob Schneider
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
+       * GitHub username 4: hickkels          name 4: Kelsey Hickok
    * When did you complete this exercise?
+   October 28
    * How long did it take your team to complete this exercise? 
-
+   2 Hours
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
