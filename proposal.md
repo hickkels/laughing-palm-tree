@@ -58,9 +58,15 @@ After the username and password are verfied as a user, the user is taken to a pa
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-First we would start with a user class. This class would have worker and manager subclasses. Then we would implement a data structure class that generates the schedule. After that, we would do a user interface class that would have logging, employee, and manager user interfaces.
+First we would start with a user class. This class would have worker and manager subclasses. Then we would implement a schedule class that implements the data structure class that generates the schedule. After that, we would do a user interface class that would have logging, employee, and manager user interfaces.
 
 Name each interface or class and briefly describe its function or purpose.
+
+user class - store usernames, passwords
+worker subclass - normal workers input availability
+manager subless - similar to worker class, can see everyone's schedule, and has seperate rules for scheduling
+schedule class - generates the schedule
+user interface - draws the user view to the screen
 
 
 ## Edit and Submit this file and any figures referenced by this document.
