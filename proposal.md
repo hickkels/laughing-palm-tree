@@ -44,6 +44,7 @@ It will be a GUI that will have a scrollable table with each worker, the time th
  |Name  |Days of Week and Hours Working|... | Total Hours Worked For Week|  
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 The user starts by inputing a username and password
 
 After the username and password are verfied as a user, the user is taken to a page where they have the option to select availability for the week in the form of a grid containing days of the week and times where you can click boxes to mark when you are avaiable.
