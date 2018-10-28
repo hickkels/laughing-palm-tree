@@ -29,8 +29,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Our team would like to solve the problem of poor organization in workplaces.
+
+When people's schedules are not all merged, there is a possibility scheduling conflicts arise. A program that could fix this would create an environment where everyone enters availability, and a schedule is created with all of this in mind.
 
 ## Questions to answer for Exercise #2
 
