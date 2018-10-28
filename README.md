@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: carmstrong195      name 1: Calvin Armstrong
        * GitHub username 2: 1009205918         name 2: Daoxing Zhang
-       * GitHub username 3:       name 3: 
+       * GitHub username 3: jdschneider4      name 3: Jacob Schneider
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise?
