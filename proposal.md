@@ -62,11 +62,7 @@ First we would start with a user class. This class would have worker and manager
 
 Name each interface or class and briefly describe its function or purpose.
 
-user class - store usernames, passwords
-worker subclass - normal workers input availability
-manager subless - similar to worker class, can see everyone's schedule, and has seperate rules for scheduling
-schedule class - generates the schedule
-user interface - draws the user view to the screen
+The user class store usernames and passwords. The worker subclass has the normal workers input availability. The manager subclass is similar to the worker class, but can also see everyone's schedule, and has seperate rules for scheduling. The schedule class generates the schedule. The user interface draws the user view to the screen.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
