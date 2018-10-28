@@ -41,9 +41,7 @@ A auto-scheduling assistant for a workplace.
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
 It will be a GUI that will have a scrollable table with each worker, the time they work each day, and total hours worked.
- Name_______  Days of Week_________ Total Hours Worked  
- Worker Name_ Days of Week_________ Total Hours         
- ..._________ ...__________________ ...
+ |Name  |Days of Week and Hours Working|... | Total Hours Worked For Week|  
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
