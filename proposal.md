@@ -57,7 +57,7 @@ After the username and password are verfied as a user, the user is taken to a pa
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+First we would start with a user class. This class would have worker and manager subclasses. Then we would implement a data structure class that generates the schedule. After that, we would do a user interface class that would have logging, employee, and manager interfaces.
 
 Name each interface or class and briefly describe its function or purpose.
 
