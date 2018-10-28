@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 83 Scheduling Assistant
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -36,7 +36,7 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+A auto-scheduling assistant for a workplace.
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
